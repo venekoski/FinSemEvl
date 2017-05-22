@@ -6,20 +6,6 @@ These are the resources produced for the NoDaLiDa 2017 conference short paper
 "Finnish resources for evaluating language model semantics" by V. Venekoski and J. Vankka. <br />
 The full text can be found here: http://www.ep.liu.se/ecp/article.asp?issue=131&article=028. <br />
 
-If you wish to use the data in your research, please cite the following:
-
-@inproceedings{venekoski2017finnish, <br />
-author = {Venekoski, Viljami and Vankka, Jouko}, <br />
-institution = {National Defence University, Helsinki, Finland}, <br />
-booktitle = {Proceedings of the 21st Nordic Conference on Computational Linguistics, NoDaLiDa, 22-24 May 2017, Gothenburg, Sweden}, <br />
-number = {131}, <br />
-pages = {231-236}, <br />
-publisher = {Linköping University Electronic Press, Linköpings universitet}, <br />
-title = {Finnish resources for evaluating language model semantics}, <br />
-year = {2017}, <br />
-issn = {1650-3740} <br />
-} <br />
-
 This repository contains three sets of data, one for each evaluation task:
 
 (1) Similarity judgments
@@ -68,3 +54,17 @@ each of the above tasks due to the policy of the Finnish Defence Forces where th
 conducted. However, one should be able to replicate the procedure using methods described in the 
 paper. If you need assistance in using these resources in the described manner, do not hesitate
 to contact the first author at venekoski[ät]gmail.com or social media.
+
+If you wish to use the data in your research, please cite the following:
+
+@inproceedings{venekoski2017finnish, <br />
+author = {Venekoski, Viljami and Vankka, Jouko}, <br />
+institution = {National Defence University, Helsinki, Finland}, <br />
+booktitle = {Proceedings of the 21st Nordic Conference on Computational Linguistics, NoDaLiDa, 22-24 May 2017, Gothenburg, Sweden}, <br />
+number = {131}, <br />
+pages = {231-236}, <br />
+publisher = {Linköping University Electronic Press, Linköpings universitet}, <br />
+title = {Finnish resources for evaluating language model semantics}, <br />
+year = {2017}, <br />
+issn = {1650-3740} <br />
+}
