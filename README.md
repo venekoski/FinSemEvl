@@ -6,15 +6,25 @@ These are the resources produced for the NoDaLiDa 2017 conference short paper
 "Finnish resources for evaluating language model semantics" by V. Venekoski and J. Vankka. The full text can be found here: http://www.ep.liu.se/ecp/article.asp?issue=131&article=028 . If you wish to use the data in your research, please cite the following:
 
 @inproceedings{venekoski2017finnish,
+
 author = {Venekoski, Viljami and Vankka, Jouko},
+
 institution = {National Defence University, Helsinki, Finland},
+
 booktitle = {Proceedings of the 21st Nordic Conference on Computational Linguistics, NoDaLiDa, 22-24 May 2017, Gothenburg, Sweden},
+
 number = {131},
+
 pages = {231-236},
+
 publisher = {Linköping University Electronic Press, Linköpings universitet},
+
 title = {Finnish resources for evaluating language model semantics},
+
 year = {2017},
+
 issn = {1650-3740}
+
 }
 
 This repository contains three sets of data, one for each evaluation task:
