@@ -3,7 +3,9 @@
 (Copyright) Viljami Venekoski 2017
 
 These are the resources produced for the NoDaLiDa 2017 conference short paper 
-"Finnish resources for evaluating language model semantics" by V. Venekoski and J. Vankka. The full text can be found here: http://www.ep.liu.se/ecp/article.asp?issue=131&article=028. <br />
+"Finnish resources for evaluating language model semantics" by V. Venekoski and J. Vankka. <br />
+The full text can be found here: http://www.ep.liu.se/ecp/article.asp?issue=131&article=028. <br />
+
 If you wish to use the data in your research, please cite the following:
 
 @inproceedings{venekoski2017finnish, <br />
@@ -22,9 +24,9 @@ This repository contains three sets of data, one for each evaluation task:
 
 (1) Similarity judgments
 The directory has two files: <br />
-	- 'FinnSim_judgment_scores' containing mean and standard deviation
+	'FinnSim_judgment_scores' containing mean and standard deviation
 of every 300 word pairs as answered by the 55 respondents <br />
-	- 'SimLex-TranslationsScores' containing the original SimLex-999 scores for the 300 words
+	'SimLex-TranslationsScores' containing the original SimLex-999 scores for the 300 words
 	   which were translated into Finnish. The file includes the additional information of
 	   the original data set, but do note that the concreteness scores should probably not be
 	   applied cross-lingually.<br />
