@@ -20,7 +20,6 @@ akvamariini
 smaragdinvihreä
 vihreä
 lime
-
 limenvihreä
 beige
 isabella
@@ -52,4 +51,3 @@ lila
 violetti
 fuksia
 purppura
-
