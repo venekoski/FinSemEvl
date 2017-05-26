@@ -2073,33 +2073,19 @@ piisamikontiainen
 
 piiskahäntäpuupäästäinen
 pikkubulldoggilepakko
-
 pikkudoggilepakko
-
 pikkugrisoni
-
 pikkuhamsteri
-
 pikkuhamsterirotta
-
 pikkuhedelmäleikko
-
 pikkuhevosenkenkäyökkö
-
 pikkuhiirenhäntälepakko
-
 pikkujuovapäästäinen
-
 pikkukielilepakko
-
 pikkukudu
-
 pikkulaktago
-
 pikkulepakko
-
 pikkumaahutia
-
 pikkumaaorava
 
 pikkumetsähiiri
@@ -2153,37 +2139,22 @@ pitkähäntähedelmälepakko
 
 pitkähäntäkissa
 pitkähäntäkotipäästäinen
-
 pitkähäntäkärppä
-
 pitkähäntämurmeli
-
 pitkähäntämuurahaiskäpy
-
 pitkähäntäpiikkisika
-
 pitkähäntäpussihiiri
-
 pitkähäntätanrekki
-
 pitkäjalkaleikko
-
 pitkäjalkarotta
-
 pitkäjalkapäästäiskenguru
 pitkäjalkatupaija
-
 pitkäjalkavesirotta
-
 pitkäkarvahämähäkkiapina
-
 pitkäkielihedelmälepakko
-
 pitkäkielileikko
 pitkäkorvamaaorava
-
 pitkäkorvasiili
-
 pitkäkorvasiippa
 
 pitkäkuonodelfiini
@@ -3186,14 +3157,9 @@ yhdeksänvyövyötiäinen
 yksihammaspäästäishiiri
 
 ylänköbanaanirotta
-
 ylänkömangabi
-
 ylänkömyyrä
-
 yumansiippa
-
 yökissa
 zorilla
 zylinkultamyyrä
-
